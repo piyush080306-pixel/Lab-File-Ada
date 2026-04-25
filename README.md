@@ -1,77 +1,161 @@
-# Project Title
+# 📘 Analysis and Design of Algorithms Lab (ADA)
 
-A brief description of what this project does and who it's for
+## 👨‍🎓 Student Information
 
-📘 Analysis and Design of Algorithms Lab
-👨‍🎓 Student Details
-Name: Piyush
-Roll No: 2401730018
-Course Code: ENCS256
-Instructor: Dr. Vandana Batra
-📌 Overview
-This repository contains Java implementations of important algorithms studied in the Analysis and Design of Algorithms (ADA) lab.
+* **Name:** Piyush
+* **Roll No:** 2401730018
+* **Course Code:** ENCS256
+* **Instructor:** Dr. Vandana Batra
 
-Each practical includes:
+---
 
-Problem statement (Aim)
-Java code implementation
-Output
-Time and Space Complexity Analysis
-🧪 Practicals Included
-🔹 Practical 1: Factorial & Fibonacci
-Iterative and Recursive methods
-Complexity comparison
-🔹 Practical 2: Sorting Algorithms
-Bubble Sort
-Selection Sort
-Insertion Sort
-Best, Average, Worst case analysis
-🔹 Practical 3: Binary Search
-Efficient searching in sorted arrays
-Complexity analysis
-🔹 Practical 4: Merge Sort & Quick Sort
-Divide and Conquer techniques
-🔹 Practical 5: Fractional Knapsack
-Greedy approach
-Maximum profit calculation
-🔹 Practical 6: 0/1 Knapsack
-Dynamic Programming approach
-🔹 Practical 7: Longest Common Subsequence
-Finds longest matching sequence between strings
-🔹 Practical 8: Matrix Chain Multiplication
-Optimal parenthesization
-🔹 Practical 9: Dijkstra Algorithm
-Shortest path in graphs
-🔹 Practical 10: Bellman-Ford Algorithm
-Handles negative edge weights
-🔹 Practical 11: BFS & DFS
-Graph traversal techniques
-🔹 Practical 12: N-Queen Problem
-Backtracking solution
-🔹 Practical 13: Sum of Subsets
-Backtracking approach
-🔹 Practical 14: Naive String Matching
-Pattern searching algorithm
-⚙️ Technologies Used
-Language: Java
-Concepts Covered:
-Recursion
-Sorting Algorithms
-Searching Algorithms
-Dynamic Programming
-Greedy Algorithms
-Graph Algorithms
-Backtracking
-🚀 How to Run
-Clone this repository:
-git clone https://github.com/your-username/ada-lab.git
+## 📌 Project Overview
 
-Navigate to the project folder:
+This repository contains well-structured **Java implementations of fundamental algorithms** covered in the *Analysis and Design of Algorithms (ADA)* lab.
+
+Each practical is designed to strengthen core algorithmic concepts and includes:
+
+* ✅ Problem Statement (Aim)
+* 💻 Java Implementation
+* 📤 Sample Output
+* 📊 Time & Space Complexity Analysis
+
+---
+
+## 🧪 Practicals Covered
+
+### 🔹 1. Factorial & Fibonacci
+
+* Iterative & Recursive approaches
+* Performance comparison
+
+### 🔹 2. Sorting Algorithms
+
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Best, Average, Worst Case Analysis
+
+### 🔹 3. Binary Search
+
+* Efficient searching in sorted arrays
+* Logarithmic time complexity
+
+### 🔹 4. Merge Sort & Quick Sort
+
+* Divide and Conquer paradigm
+* Optimized sorting techniques
+
+### 🔹 5. Fractional Knapsack
+
+* Greedy strategy
+* Maximum profit optimization
+
+### 🔹 6. 0/1 Knapsack
+
+* Dynamic Programming approach
+* Optimal subset selection
+
+### 🔹 7. Longest Common Subsequence (LCS)
+
+* String comparison problem
+* DP-based solution
+
+### 🔹 8. Matrix Chain Multiplication
+
+* Optimal parenthesization
+* Minimizing multiplication cost
+
+### 🔹 9. Dijkstra Algorithm
+
+* Shortest path in weighted graphs
+* Greedy approach
+
+### 🔹 10. Bellman-Ford Algorithm
+
+* Handles negative weights
+* Detects negative cycles
+
+### 🔹 11. BFS & DFS
+
+* Graph traversal techniques
+* Breadth-first & depth-first strategies
+
+### 🔹 12. N-Queen Problem
+
+* Backtracking solution
+* Constraint satisfaction
+
+### 🔹 13. Sum of Subsets
+
+* Backtracking approach
+* Subset generation
+
+### 🔹 14. Naive String Matching
+
+* Pattern searching technique
+* Basic string algorithm
+
+---
+
+## ⚙️ Tech Stack
+
+* **Language:** Java
+* **Core Concepts:**
+
+  * Recursion
+  * Sorting & Searching
+  * Divide & Conquer
+  * Dynamic Programming
+  * Greedy Algorithms
+  * Graph Algorithms
+  * Backtracking
+
+---
+
+## 🚀 How to Run
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone <your-repo-link>
+```
+
+### 2️⃣ Navigate to Project Folder
+
+```bash
 cd ada-lab
-Compile and run any Java file:
+```
+
+### 3️⃣ Compile & Run
+
+```bash
 javac Practical1.java
-java Practical1 📊 Learning Outcomes Analyze algorithm efficiency using time and space complexity Understand different problem-solving paradigms Implement real-world algorithmic problems Compare performance of algorithms
+java Practical1
+```
 
-📜 License
+---
 
-This project is for educational purposes only.
+## 📊 Learning Outcomes
+
+* 📌 Analyze algorithm efficiency using time & space complexity
+* 📌 Understand multiple problem-solving paradigms
+* 📌 Implement real-world algorithmic solutions
+* 📌 Compare performance of different algorithms
+
+---
+
+## 🌟 Highlights
+
+* Clean and modular Java code
+* Covers all major ADA topics
+* Beginner-friendly + Viva-ready
+* Strong foundation for coding interviews
+
+---
+
+## 📜 License
+
+This project is developed for **educational purposes only**.
+
+---
